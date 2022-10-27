@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pawan-P)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pawan-P&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
